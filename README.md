@@ -107,8 +107,8 @@
                         alt="Imagem representativa do projeto de uma biblioteca online">
                 </div>
                 <div class="modal-footer">
-                    <a href="https://femascheti.github.io/minhas-leituras/">Ver projeto ao vivo</a>
-                    <a href="https://github.com/femascheti/minhas-leituras">Ver código do projeto</a>
+                    <a href="https://PPV142.github.io/minhas-leituras/">Ver projeto ao vivo</a>
+                    <a href="https://github.com/PPV142/minhas-leituras">Ver código do projeto</a>
                 </div>
             </div>
         </div>
@@ -152,9 +152,9 @@
                         alt="Imagem representativa do projeto de uma biblioteca online">
                 </div>
                 <div class="modal-footer">
-                    <a href="https://femascheti.github.io/tecnicas-computacionais-refletindo-sobre-ia/">Ver projeto ao
+                    <a href="https://PPV142.github.io/tecnicas-computacionais-refletindo-sobre-ia/">Ver projeto ao
                         vivo</a>
-                    <a href="https://github.com/femascheti/tecnicas-computacionais-refletindo-sobre-ia">Ver código do
+                    <a href="https://github.com/PPV142/tecnicas-computacionais-refletindo-sobre-ia">Ver código do
                         projeto</a>
                 </div>
             </div>
