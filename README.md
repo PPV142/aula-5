@@ -7,7 +7,7 @@
     <title>Meu portfolio</title>
 </head>
 <body>
-    <img src="img/caramelo.jpeg" alt="avatar de title" srcset="">
+    <img src="caramelo.jpeg" alt="avatar de title" srcset="">
     <p>Meu nome é Piettro</p>
     <h1>Sou estudante</h1>
     <p>Sou um estudante da Escola PEI Ibrahim Nobre. Integrado à série 2° ano E,focada em Exatas, tenho como objetivo me tornar um Engenheiro Elétrico,Gastrônomo ou Programador.</p>
